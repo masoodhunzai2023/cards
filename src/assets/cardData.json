@@ -1,0 +1,26 @@
+{
+    "1":
+    [
+            {
+                "valueDescription":"country ",
+                "value":5
+            }
+        
+    ],
+    "2":
+    [
+        {
+            "valueDescription":"city ",
+            "value":"5"
+        }
+    ],
+    "3":
+    [
+        {
+            "valueDescription":"etc ",
+            "value":"6"
+        }
+    
+    ]
+    
+}
